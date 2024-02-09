@@ -1,0 +1,27 @@
+name: favapp
+description: "野菜と果物のリストからお好みを選択したり外したりするアプリ。要件定義から実装までAIを使って開発するサンプルです。"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  provider:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints:
+  test:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
