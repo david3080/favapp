@@ -10,11 +10,12 @@ class Item {
     return type == ItemType.fruit ? '果物' : '野菜';
   }
 
-  Item(
-      {required this.name,
-      required this.type,
-      required this.description,
-      required this.imagePath});
+  Item({
+    required this.name,
+    required this.type,
+    required this.description,
+    required this.imagePath,
+  });
 }
 
 final List<Item> items = [
