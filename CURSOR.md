@@ -21,7 +21,7 @@ Cursorの基本の料金体系は以下の通りです。
     デフォルトはCursorエディタのメニューや文言が英語なので日本語環境をダウンロードして設定すると使いやすくなるでしょう。英語に抵抗がない場合はそのままでいいでしょう。
 
 ## 3. Cursorの環境設定
-記事「[Cursorの環境設定について解説！](https://www.creationline.com/tech-blog/68729)」を参考にCursorの環境設定を行うとよいです。設定項目には以下のものがあります。
+Cursorの設定項目には以下のものがあります。記事「[Cursorの環境設定について解説！](https://www.creationline.com/tech-blog/68729)」が参考になります。
 
 | 設定項目 | 説明 |
 |:--------|:----|
@@ -33,6 +33,8 @@ Cursorの基本の料金体系は以下の通りです。
 | Advanced - Azure API | CursorからAzure OpenAIを利用したい場合に設定を行います。 |
 | Advanced - Chat/Edit Tooltip | チャットや編集画面で次のコードや言葉を予測して表示するツールチップを表示するか否かを設定します。 | 
 | Terminal Tooltip | ターミナルで次のコマンドや言葉を予測して表示するツールチップを表示するか否かを設定します。 |
+
+事前準備ではOpenAI APIキーのみ設定を行います。APIキーの設定方法については「[5. CursorへのAPIキーの設定](#5-CursorへのAPIキーの設定)」を参考にしてください。
 
 ## 4. CursorでのOpenAI APIキーの利用
 Cursorでは自分のOpenAIのAPIキーを設定することでAPIの従量課金でGPTの機能を利用することができます。
