@@ -12,10 +12,10 @@ Cursorの基本の料金体系は以下の通りです。
 ## 2. Cursorのインストール
 記事「[Cursorエディタをインストールしよう！](https://zenn.dev/collabostyle/articles/1fed55eb0ab3cd)」を参考にインストールと日本語化を行います。
 
-<a href="https://zenn.dev/collabostyle/articles/1fed55eb0ab3cd" target="_blank">Cursorエディタをインストールしよう！</a>
-
-1. [インストール](https://zenn.dev/collabostyle/articles/1fed55eb0ab3cd#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB) 操作するPCのOSに従いインストーラをダウンロードしてインストールします。Cursorへのユーザ登録とログインも忘れないようにしてください。
-2. [日本語設定](https://zenn.dev/collabostyle/articles/1fed55eb0ab3cd#%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%AD%E5%AE%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6) デフォルトはCursorエディタのメニューや文言が英語なので日本語環境をダウンロードして設定すると使いやすくなるでしょう。英語に抵抗がない場合はそのままでいいでしょう。
+1. [インストール](https://zenn.dev/collabostyle/articles/1fed55eb0ab3cd#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+    操作するPCのOSに従いインストーラをダウンロードしてインストールします。Cursorへのユーザ登録とログインも忘れないようにしてください。
+2. [日本語設定](https://zenn.dev/collabostyle/articles/1fed55eb0ab3cd#%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%AD%E5%AE%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6) 
+    デフォルトはCursorエディタのメニューや文言が英語なので日本語環境をダウンロードして設定すると使いやすくなるでしょう。英語に抵抗がない場合はそのままでいいでしょう。
 
 ## 3. Cursorの環境設定
 記事「[Cursorの環境設定について解説！](https://www.creationline.com/tech-blog/68729)」を参考にCursorの環境設定を行うとよいです。設定項目には以下のものがあります。
