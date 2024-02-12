@@ -37,3 +37,8 @@ Flutter WebをデバッグするためにはChromeが必要になります。Chr
 
 ## Flutter Webの導入確認
 Flutter Webの導入確認はCursorから行います。
+
+1. 設定した環境変数が反映されるようにするため、Cursorを一度閉じて再度立ち上げます。
+2. Cursorを開いてメニューの「表示」＞「ターミナル」を選択すると画面中央下部にpowershellのターミナルが表示されます。
+3. ターミナルに`flutter doctor`と入力してください。
+
