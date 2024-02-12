@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'items.dart';
 
-// アイテム番号をリスト保持するクラス
+// お気に入りアイテムをリスト保持するクラス
 class Favorites extends ChangeNotifier {
   // お気に入りアイテムの番号を保持するリスト
   final List<Item> _favoriteItems = [];

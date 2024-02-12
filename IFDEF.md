@@ -6,10 +6,3 @@
 | 3 | description | 文字列 | 必須 | '赤または緑の丸くて甘い果物。' | アイテムの説明 |
 | 4 | imagePath | 文字列 | 必須 | 'assets/images/[アイテム英名].png' | アイテムの画像へのパス |
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
