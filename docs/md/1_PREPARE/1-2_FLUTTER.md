@@ -1,4 +1,4 @@
-# 0-2. Flutterの概要と環境設定
+# 1-2. Flutterの概要と環境設定
 Flutterの概要と特徴を説明し、本研修で利用するFlutter Webの説明と導入方法を説明します。
 
 ## モバイル開発の課題とFlutter
