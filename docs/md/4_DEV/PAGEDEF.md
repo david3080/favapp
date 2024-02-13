@@ -1,7 +1,7 @@
 # 1.ホーム画面定義書
 
 | 項目 | 内容 |
-| --- | --- |
+|:---|:---|
 | 画面名 | ホーム画面(HomePage) |
 | 遷移元画面名 | なし |
 | 遷移先画面名 | お気に入り画面(FavoritesPage) |
@@ -9,7 +9,7 @@
 ## 画面項目リスト
 
 | 項目名 | プロパティ名 | 種類 | 必須 |
-| --- | --- | --- | --- |
+|:---|:---|:---|:---|
 | アプリバー | appBar | AppBar | はい |
 | タイトル | title | Text | はい |
 | お気に入りボタン | actions | IconButton(Icons.favorite) | はい |
@@ -18,7 +18,7 @@
 | アイテム画像 | leading | CircleAvatar | はい |
 | アイテム名 | title | Text | はい |
 | アイテム説明 | subtitle | Text | はい |
-| お気に入りアイコン | trailing | IconButton(Icons.favorite か Icons.favorite_border) | はい |
+| お気に入りアイコン | trailing | IconButton(Icons.favorite か<br> Icons.favorite_border) | はい |
 
 ## 処理概要
 - ホーム画面では、アイテムリストが表示されます。各アイテムは、画像、名前、説明が表示され、お気に入りアイコンが付いています。
