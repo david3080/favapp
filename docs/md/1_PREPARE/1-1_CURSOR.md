@@ -75,5 +75,3 @@ CursorはVSCodeをベースとしており、マークダウン形式での文�
 1. Cursorを開いて左側上部の「拡張機能」（ ![拡張アイコン](../images/extensions.svg) ）をクリックします。
 2. 画面上部のテキストボックスに「Markdown Preview Mermaid Support」と入力し、表示された拡張機能をクリックしてインストールします。
 3. インストールが終了すると、Cursor画面でリロードを促すメッセージが表示されるので、リロードを行います。
-
-## 8. CursorへのFAVAPPの

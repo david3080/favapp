@@ -33,7 +33,8 @@
 | タイトル                        | 説明    |
 |:--------------------------------|:---------|
 | [1-1.Cursorのインストールと設定](./docs/md/1_PREPARE/1-1_CURSOR.md) | Cursorの料金プランとできることを説明し、そのインストール方法と環境設定の方法、特にOpenAIのAPIキーの設定方法を説明します。  |
-| [1-2.Flutterのインストールと設定](./docs/md/1_PREPARE/1-2_FLUTTER.md) | Flutterの概要と特徴を説明し、本研修で利用するFlutter Webの説明と導入方法を説明します。 |
+| [1-2.Flutterの概要](./docs/md/1_PREPARE/1-2_FLUTTER.md) | Flutterの概要と特徴を説明し、本研修で利用するFlutter Webを説明します。 |
+| [1-3.Flutterの環境設定](./docs/md/1_PREPARE/1-3_FLUTTER2.md) | Flutter Webの導入方法を説明します。 |
 
 ## 2. 学習
 Dart言語の基礎文法とマテリアルデザインの基本、マークダウン表記について学習します。
