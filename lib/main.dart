@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'favorites.dart';
-import 'homescreen.dart';
-import 'favoritesscreen.dart';
+import 'homepage.dart';
+import 'favoritespage.dart';
 
 void main() {
   runApp(const MyApp());
