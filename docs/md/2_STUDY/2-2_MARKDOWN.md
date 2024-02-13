@@ -136,18 +136,7 @@ public class HelloWorld {
 | イチゴ   | 赤  |
 
 ## 7. UML記法
-VSCodeに「Markdown Preview Enhanced」プラグインをインストールすると、PlantUMLやMermaidといったUMLのような図を挿入するための記法が表示できるようになります。
-
-【PlantUMLの例】
-```plantuml
-@startuml
-objectA -> objectB : 同期メッセージ
-objectA ->> objectB : 非同期メッセージ
-objectB -->> objectA : リプライメッセージ
-
-objectA -> objectA : 自分へのメッセージ
-@enduml
-```
+VSCodeに「Markdown Preview Enhanced」プラグインをインストールすると、PlantUMLやMermaidといったUMLのような図を挿入するための記法が表示できるようになります。GitHubのマークダウンでは直接PlantUML表記ができないため、本研修ではmermaid形式を使用します。
 
 【mermaidの例】
 ```mermaid
