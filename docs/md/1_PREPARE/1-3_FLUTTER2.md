@@ -18,7 +18,7 @@ Flutter Webを導入するには、Flutter SDKのインストールと開発し�
 
 ③-2. ダウンロードしたZIPファイルを解凍し、解凍したフォルダを任意の場所（例えばCドライブの直下）に移動します（「C:¥flutter」が作成されます）。
 
-③-3. 環境変数Pathに「C:¥flutter¥bin」を追加します（Cドライブ直下とは異なる場所にflutterフォルダを配置した場合はその場所を指定します）。Windows上での環境変数の設定方法については[こちら](https://www.scc-kk.co.jp/scc-books/java8_workbook/java_dev-win10.html)を参照してください。
+③-3. 環境変数Path（「ユーザの環境変数」側に追加ください）に「C:¥flutter¥bin」を手打ちで（コピペだと¥マークがそのまま入力され、Windows側で有効なバックスラッシュになりません）追加します（Cドライブ直下とは異なる場所にflutterフォルダを配置した場合はその場所を指定します）。Windows上での環境変数の設定方法については[こちら](https://www.scc-kk.co.jp/scc-books/java8_workbook/java_dev-win10.html)を参照してください（環境変数を変更した場合は一度Cursorを閉じて再度立ち上げてください）。
 
 ## 2.Chromeの導入
 Flutter WebをデバッグするためにはChromeが必要になります。Chromeは[こちら](https://www.google.com/intl/ja_jp/chrome/)からダウンロードしてインストールしてください。
