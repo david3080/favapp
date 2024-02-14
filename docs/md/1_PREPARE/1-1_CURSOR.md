@@ -39,6 +39,9 @@ Cursorの設定項目には以下のものがあります。記事「[Cursorの�
 
 事前準備ではOpenAI APIキーのみ設定を行います。APIキーの設定方法については「[5. CursorへのAPIキーの設定](#5-CursorへのAPIキーの設定)」を参考にしてください。
 
+※ プライバシーモードを有効にするとCursorによってコードが保存されることがなくなります。この設定を推奨します。
+![PrivacyMode](../images/privacymode.png)
+
 ## 4. CursorでのOpenAI APIキーの利用
 Cursorでは自分のOpenAIのAPIキーを設定することでAPIの従量課金でGPTの機能を利用することができます。
 
